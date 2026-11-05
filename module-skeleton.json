@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-image-processing-vue-inertia",
+  "capabilityKey": "planned:cms:image-processing",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-cms-image-processing-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/cms/nextjs/image-processing.md",
+  "presentationPlan": "projects/cms/vue/image-processing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
